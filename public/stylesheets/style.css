@@ -1,0 +1,23 @@
+.area-sign-in {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: rgb(58, 65, 71);
+}
+.sign-in {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #9ea9f7;
+  width: 340px;
+  height: 350px;
+  border-radius: 8px;
+  padding: 35px;
+}
